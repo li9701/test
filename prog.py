@@ -12,7 +12,6 @@ answer = args.square**2
 # print(args.square**2)
 #
 #
-# test
 if args.verbosity == 2:
 	# print("verbosity turned on")
 	print("the square of {} equals {}".format(args.square,answer))
